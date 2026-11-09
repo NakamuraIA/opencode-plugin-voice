@@ -1,0 +1,5 @@
+node_modules/
+tests/out/
+*.log
+server.err
+server.log
